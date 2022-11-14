@@ -1,3 +1,3 @@
 # ScrivanoFlatpak
 
-This repo contains the Flatpak binary files for the Flathub version of Scrivano.
+This repo contains the Flatpak binary releases for the Flathub version of Scrivano.
